@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li {
+	list-style: none;
+}
+.content {
+	position: relative;
+	width: 500px;
+	height: 300px;
+	margin: 100px auto;
+	overflow: hidden;
+}
+.imgList {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 2000px;
+	height: 300px;
+}
+.imgList li {
+	float: left;
+	width: 500px;
+	height: 300px;
+}
+.buttons
